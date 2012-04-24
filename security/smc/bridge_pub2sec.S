@@ -17,6 +17,7 @@
  * MA 02111-1307 USA
  */
 
+.arch_extension sec
 .text
 
 #define SMICODEPUB_IRQ_END   0xFE
